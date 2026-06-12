@@ -59,3 +59,11 @@ Responsável por:
 ## Protótipo
 
 O protótipo foi desenvolvido utilizando a plataforma Wokwi para simulação do circuito.
+
+## Simulação no Wokwi
+
+O protótipo do projeto foi desenvolvido e testado na plataforma Wokwi.
+
+🔗 Link da simulação:
+
+https://wokwi.com/projects/464730610212755457
